@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "posDate": "04/23/2023",
+    "posSymbol": "FCX",
+    "posQuantity": "24",
+    "posCost": "$962.40",
+    "posMarket": "$951.84"
+  },
+  {
+    "id": 3,
+    "posDate": "04/23/2023",
+    "posSymbol": "INTC",
+    "posQuantity": "32",
+    "posCost": "$984.00",
+    "posMarket": "$969.60"
+  },
+  {
+    "id": 4,
+    "posDate": "04/23/2023",
+    "posSymbol": "STEM",
+    "posQuantity": "225",
+    "posCost": "$992.25",
+    "posMarket": "$983.25"
+  }
+]

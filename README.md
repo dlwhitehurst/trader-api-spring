@@ -1,4 +1,4 @@
-# trade-tx
+# trader-api-spring
 Slimboot-starter that captures and manages securities trade transactions.
  
 Build Restful lightweight APIs for a microservices system/application using Spring Boot, Web Starter, JPA and MySQL.
